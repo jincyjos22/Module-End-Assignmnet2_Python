@@ -78,3 +78,4 @@ NumPy
 
 Matplotlib
 
+Jupyter Notebook
