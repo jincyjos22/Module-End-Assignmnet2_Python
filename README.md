@@ -1,74 +1,10 @@
-ABC Company Employee Analysis
-📌 Project Overview
+📊 ABC Company Employee Data Analysis
+📌 Overview
 
-This project analyzes employee data from ABC Company consisting of 458 rows and 9 columns. The objective of this project is to preprocess the dataset, perform data analysis, create graphical representations, and extract meaningful insights about employee distribution, salary expenditure, and demographic patterns.
+This project performs data analysis on the ABC Company Employee Dataset using Python.
+The goal is to explore employee distribution, salary expenditure, age demographics, and the relationship between age and salary through statistical analysis and visualizations.
 
-🔧 Data Preprocessing
-
-The Height column was corrected by replacing its values with randomly generated numbers between 150 and 180, as instructed.
-
-Ensured the dataset was consistent and ready for analysis before performing computations and visualizations.
-
-📊 Analysis Tasks Performed
-1️⃣ Employee Distribution by Team
-
-Calculated the total number of employees in each team.
-
-Computed the percentage split relative to the total workforce.
-
-Represented results using a bar chart.
-
-2️⃣ Employee Distribution by Position
-
-Segregated employees based on their job positions.
-
-Displayed distribution using a bar chart.
-
-3️⃣ Predominant Age Group
-
-Grouped employees into age categories.
-
-Identified the most common age group.
-
-Represented the distribution using a pie chart.
-
-4️⃣ Salary Expenditure Analysis
-
-Calculated total salary expenditure by team.
-
-Calculated total salary expenditure by position.
-
-Identified the team and position with the highest salary spending.
-
-Visualized using bar charts.
-
-5️⃣ Correlation Between Age and Salary
-
-Calculated the correlation coefficient between age and salary.
-
-Represented the relationship using a scatter plot.
-
-📈 Graphical Representations Used
-
-Bar Charts (Team Distribution, Position Distribution, Salary Analysis)
-
-Pie Chart (Age Group Distribution)
-
-Scatter Plot (Age vs Salary Correlation)
-
-🔎 Key Insights
-
-Employees are distributed across multiple teams with varying proportions.
-
-Certain positions have a higher concentration of employees.
-
-The predominant age group falls between 25–35 years.
-
-Some teams have significantly higher salary expenditure compared to others.
-
-The correlation between age and salary is weak/moderate, indicating salary is not strongly dependent on age alone.
-
-🛠 Tools & Technologies Used
+🛠 Tech Stack
 
 Python
 
@@ -78,4 +14,98 @@ NumPy
 
 Matplotlib
 
-Jupyter Notebook
+Excel Dataset (.xlsx)
+
+📂 Dataset
+
+The dataset file used:
+
+ABC Company.xlsx
+
+It contains employee information such as:
+
+Team
+
+Position
+
+Age
+
+Salary
+
+Height
+
+📊 Analysis Performed
+1️⃣ Employee Distribution by Team
+
+Calculated total employees per team
+
+Computed percentage split
+
+Visualized using Bar Chart
+
+2️⃣ Employee Distribution by Position
+
+Counted employees by position
+
+Represented using Bar Chart
+
+3️⃣ Predominant Age Group
+
+Grouped employees into age ranges
+
+Identified the most common age group
+
+Visualized using Pie Chart
+
+4️⃣ Salary Expenditure Analysis
+
+Calculated total salary expenditure by:
+
+Team
+
+Position
+
+Identified highest salary spending team and position
+
+Visualized using Bar Charts
+
+5️⃣ Correlation Between Age and Salary
+
+Computed correlation coefficient
+
+Represented relationship using Scatter Plot
+
+📈 Visualizations Used
+
+Bar Charts
+
+Horizontal Bar Charts
+
+Pie Chart
+
+Scatter Plot
+
+📌 Key Insights
+
+Identified team-wise employee distribution and salary allocation.
+
+Determined the predominant age group among employees.
+
+Found the team and position with highest salary expenditure.
+
+Analyzed correlation between age and salary.
+
+🎯 Conclusion
+
+This project demonstrates basic exploratory data analysis (EDA) techniques using Python.
+It provides meaningful insights into workforce structure and financial distribution within ABC Company using clear graphical representations.
+
+If you want, I can also:
+
+✨ Add badges (Python version, license, etc.)
+
+📷 Add screenshot section for graphs
+
+🚀 Make it look more advanced (for better GitHub impression)
+
+Tools
