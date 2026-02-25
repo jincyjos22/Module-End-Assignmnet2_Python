@@ -88,16 +88,13 @@ Scatter Plot
 
 📌 Key Insights
 
-Identified team-wise employee distribution and salary allocation.
+The workforce distribution varies across teams and positions.
 
-Determined the predominant age group among employees.
+A specific age group dominates the organization.
 
-Found the team and position with highest salary expenditure.
+Certain teams and roles contribute significantly to overall salary expenditure.
 
-Analyzed correlation between age and salary.
-
+The correlation analysis provides insight into whether salary increases with age.
 🎯 Conclusion
-
-This project demonstrates basic exploratory data analysis (EDA) techniques using Python.
-It provides meaningful insights into workforce structure and financial distribution within ABC Company using clear graphical representations.
-
+This project demonstrates fundamental data analysis and visualization techniques using Python. It highlights how structured data can be analyzed to uncover workforce patterns, salary distribution insights, and demographic trends.
+he project serves as a practical example of applying exploratory data analysis to real-world organizational data.
