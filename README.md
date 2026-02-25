@@ -50,6 +50,7 @@ Height
 The dataset was loaded and processed using Pandas for analysis.
 
 📊 Analysis and Methodology
+
 1️⃣ Employee Distribution by Team
 
 Counted number of employees in each team
