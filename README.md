@@ -20,32 +20,32 @@ The findings are supported by clear graphical representations to improve interpr
 
 🛠 Technologies Used
 
-Python
+•Python
 
-Pandas – Data manipulation and analysis
+•Pandas – Data manipulation and analysis
 
-NumPy – Numerical operations
+•NumPy – Numerical operations
 
-Matplotlib – Data visualization
+•Matplotlib – Data visualization
 
-Excel (.xlsx) – Dataset format
+•Excel (.xlsx) – Dataset format
 
 📂 Dataset Information
 
 File Used:
-ABC Company.xlsx
+•ABC Company.xlsx
 
 The dataset contains structured employee data including:
 
-Team
+•Team
 
-Position
+•Position
 
-Age
+•Age
 
-Salary
+•Salary
 
-Height
+•Height
 
 The dataset was loaded and processed using Pandas for analysis.
 
@@ -97,13 +97,13 @@ Visualized using scatter plot
 
 📈 Visualizations Included
 
-Bar Charts
+•Bar Charts
 
-Horizontal Bar Charts
+•Horizontal Bar Charts
 
-Pie Chart
+•Pie Chart
 
-Scatter Plot
+•Scatter Plot
 
 These visualizations improve clarity and support analytical conclusions.
 
